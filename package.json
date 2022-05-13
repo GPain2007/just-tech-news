@@ -28,5 +28,8 @@
     "url": "https://github.com/GPain2007/just-tech-news/issues"
   },
   "homepage": "https://github.com/GPain2007/just-tech-news#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
